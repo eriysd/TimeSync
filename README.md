@@ -1,4 +1,5 @@
 # TimeSync
+Devpost ULR: https://devpost.com/software/timesync-3tyfro
 
 # Inspiration
 The transition to online schooling has made it difficult for students to work with friends. The decrease in communications among students has left them feeling lost in this challenging time. Thus to solve the lack of emotional support, we have decided to create this web app that aids and encourages the planning of group-working.
